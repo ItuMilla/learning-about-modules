@@ -7,3 +7,6 @@ function greet(name) {
    return "Hello," + name;
 }
 
+const msg = greet('xola')
+console.log(msg)
+console.log(greet('Itumeleng'));
