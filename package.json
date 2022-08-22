@@ -1,20 +1,38 @@
 {
-  "name": "learning-about-modules",
+  "name": "",
   "version": "1.0.0",
   "description": "",
-  "main": "greet.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "main": "index.js",
+  "type": "module",
+  "license": "AGPL-version-3.0",
+  "private": false,
+  "engines": {
+    "node": ">= 14.0.0",
+    "npm": ">= 6.0.0"
   },
+  "homepage": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ItuMilla/learning-about-modules.git"
+    "url": ""
   },
+  "bugs": "",
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ItuMilla/learning-about-modules/issues"
+  "author": {
+    "name": "",
+    "email": "",
+    "url": ""
   },
-  "homepage": "https://github.com/ItuMilla/learning-about-modules#readme"
+  "contributors": [
+
+  ],
+  "scripts": {
+    "dev": "",
+    "test": ""
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  }
 }
