@@ -23,5 +23,7 @@
     "dev": "",
     "test": ""
   },
-  "devDependencies": {}
+  "dependencies": {
+    "figlet": "^1.5.2"
+  }
 }
