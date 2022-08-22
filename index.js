@@ -5,6 +5,8 @@ import chalk from 'chalk';
 
 import fun from "everyday-fun";
 
+// const all = reguire("everyday-fun");
+
 const riddle =fun =fun.getRandomRiddle();
 
 console.log(riddle.riddle);
