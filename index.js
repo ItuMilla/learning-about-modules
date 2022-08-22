@@ -5,7 +5,14 @@ import chalk from 'chalk';
 
 import fun from "everyday-fun";
 
+import figlet from 'figlet';
+
 // const all = reguire("everyday-fun");
+
+figlet('The riddler....', function(err, reslut){
+    console.log(result);
+});
+
 
 const riddle =fun =fun.getRandomRiddle();
 
@@ -17,7 +24,7 @@ setTimeout(function() {
 
 
 
-//console.log(chalk.bgBlackBright.bold{greet{'Itumeleng')});
+//console.log(chalk.bgBlackBright.bold{greet('Itumeleng')));
 
 // console.log(greet('Itumeleng'));
 // console.log(greet('Xola'));
