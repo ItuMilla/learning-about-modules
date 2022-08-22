@@ -19,6 +19,7 @@ console.log(riddle.riddle);
 setTimeout(function() {
     console.log(chalk.bgBlackBright.bold(riddle.answer));
 }, 3000)
+
 });
 
 
