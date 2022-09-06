@@ -5,3 +5,5 @@ import greet from './greet.js'
 // call the function and print the result on the screen
 const styledMessage = chalk.bgGreen.black(greet('Xola'));
 console.log(styledMessage)
+
+

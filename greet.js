@@ -1,4 +1,4 @@
-function greet(name) {
+export default function greet(name) {
 
     if (!name) {
         return "please enter a name.";
